@@ -9,7 +9,7 @@
 - 💬 Ask me about **Security Consulting Services**.
 - 📫 How to reach me: [suye.sh](https://suye.sh)
 
-### Check out my latest Medium articles
+### Check out my latest Medium articles:
 
 ![Check out my latest Medium Articles](https://medium-github-stats.onrender.com/card)
 
