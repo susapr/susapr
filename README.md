@@ -8,9 +8,3 @@
 - 👯 I’m looking to collaborate on **any interesting security project**.
 - 💬 Ask me about **Security Consulting Services**.
 - 📫 How to reach me: [suye.sh](https://suye.sh)
-
-### Check out my latest Medium articles:
-
-![Check out my latest Medium Articles](https://medium-github-stats.onrender.com/card)
-
-To embed your own Medium articles, check out my project [medium-github-stats](https://github.com/susapr/medium-github-stats)!
